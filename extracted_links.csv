@@ -1,0 +1,6 @@
+link,text
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/,Install packages in a virtual environment using pip and venv
+https://packaging.python.org/en/latest/guides/installing-using-virtualenv/,Installing packages using virtualenv
+https://packaging.python.org/en/latest/guides/installing-stand-alone-command-line-tools/,Installing stand alone command line tools
+https://packaging.python.org/en/latest/guides/installing-using-linux-tools/,Installing pip/setuptools/wheel with Linux Package Managers
+https://packaging.python.org/en/latest/guides/installing-scientific-packages/,Installing scientific packages
